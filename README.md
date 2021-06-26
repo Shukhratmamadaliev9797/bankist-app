@@ -43,7 +43,7 @@ I've learned basic javascript concepts and methods by doing this project. Especi
   
 ## Authors
 
-- [tiwetter](hhttps://twitter.com/Shukhrat0969)
+- [tiwetter](https://twitter.com/Shukhrat0969)
 - [linkedin](https://www.linkedin.com/in/shukhrat-mamadaliev-b5423019a/)
 
   
